@@ -21,4 +21,4 @@ In this project I've tried out various strategies used for the recommendation.
 3) Inverse Document Frequency (IDF)
 4) TF-IDF
 5) Word2Vec 
-6) CNN, VGG-16 Model  ( for image based recommedation )
+6) CNN, VGG-16 Model  ( for image based recommendation )
